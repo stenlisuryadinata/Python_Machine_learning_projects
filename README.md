@@ -66,5 +66,5 @@ To resolve this, you have a couple of options:
   bash
   brew link --overwrite pmix
   ```
-After resolving the conflict, you should be able to proceed with your installations. I
+After resolving the conflict, you should be able to proceed with your installations. 
 
