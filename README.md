@@ -50,7 +50,7 @@ bash
 deactivate
 ```
 
-##The problem 
+## The problem 
 if there's a conflict between the pmix package and the open-mpi package in Homebrew. Both packages are trying to symlink files to the same locations, causing a conflict.
 
 To resolve this, you have a couple of options:
